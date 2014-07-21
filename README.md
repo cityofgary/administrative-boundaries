@@ -1,6 +1,6 @@
-# Administrative Boundaries
+# Gary Administrative Boundaries
 
-Administrative Boundaries for the City of Gary, Indiana. All boundaries are provided in both [geoJSON](http://geojson.org/) and [Shapefile](http://en.wikipedia.org/wiki/Shapefile) (EPSG 4326) formats.
+Administrative Boundaries for the City of Gary, Indiana. Boundaries are provided in [Shapefile](http://en.wikipedia.org/wiki/Shapefile) (EPSG 4326) format and as [geoJSON](http://geojson.org/) when available.
 
 Data comes from the [Gary Sanitary District GIS Department](http://www.garysan.com/GSWMD_contact.asp)
 
@@ -21,3 +21,9 @@ Municipal boundary for the City of Gary
 17 neighborhood boundaries in the City of Gary. Note that the HORACE MANN neighborhood overlaps parts of DOWNTOWN EAST, DOWNTOWN WEST and AMBRIGE MANN. There are also parts of Gary that are not in any of these neighborhoods.
 
 ![Neighborhoods](https://raw.githubusercontent.com/cityofgary/administrative-boundaries/master/images/neighborhoods.png)
+
+### property-parcels
+
+58,397 property parcels in the City of Gary. Available only as a Shapefile due to large size
+
+![Council districts](https://raw.githubusercontent.com/cityofgary/administrative-boundaries/master/images/property-parcels.png)
