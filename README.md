@@ -24,6 +24,6 @@ Municipal boundary for the City of Gary.
 
 ### property-parcels
 
-58,397 property parcels in the City of Gary. Available only as a Shapefile due to large size
+58,397 property parcels in the City of Gary. Includes a property identification number (PIN) for each parcel. Available only as a Shapefile due to large size.
 
 ![Property parcels](https://raw.githubusercontent.com/cityofgary/administrative-boundaries/master/images/property-parcels.png)
