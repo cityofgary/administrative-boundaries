@@ -6,18 +6,20 @@ Data comes from the [Gary Sanitary District GIS Department](http://www.garysan.c
 
 ### city-boundary
 
-Municipal boundary for the City of Gary
+Municipal boundary for the City of Gary.
 
 ![City boundary](https://raw.githubusercontent.com/cityofgary/administrative-boundaries/master/images/city-boundary.png)
 
 ### city-council-districts
 
-6 City Council boundaries in the City of Gary
+6 City Council boundaries in the City of Gary.
 
 ![Council districts](https://raw.githubusercontent.com/cityofgary/administrative-boundaries/master/images/council-districts.png)
 
 ### neighborhoods
 
-17 neighborhood boundaries in the City of Gary. Note that the HORACE MANN neighborhood overlaps parts of DOWNTOWN EAST, DOWNTOWN WEST and AMBRIGE MANN. There are also parts of Gary that are not in any of these neighborhoods.
+17 neighborhood boundaries in the City of Gary.
+
+Note that the HORACE MANN neighborhood overlaps parts of DOWNTOWN EAST, DOWNTOWN WEST and AMBRIGE MANN. There are also parts of Gary that are not in any of these neighborhoods.
 
 ![Neighborhoods](https://raw.githubusercontent.com/cityofgary/administrative-boundaries/master/images/neighborhoods.png)
