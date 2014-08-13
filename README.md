@@ -12,7 +12,7 @@ Municipal boundary for the City of Gary.
 
 ### [common-council-districts](https://github.com/cityofgary/administrative-boundaries/blob/master/city-council-districts/)
 
-Legislative Districts (6) for the City of Gary. Each of the six districts are represented by a member of the [Gary Common Council](http://www.garycommoncouncil.org/default.asp)  
+Legislative Districts (6) for the City of Gary. Each of the six districts is represented by a member of the [Gary Common Council](http://www.garycommoncouncil.org/default.asp)  
 
 [![Council districts](https://raw.githubusercontent.com/cityofgary/administrative-boundaries/master/images/council-districts.png)](https://github.com/cityofgary/administrative-boundaries/blob/master/city-council-districts/city-council-districts.geojson)
 
